@@ -1,0 +1,31 @@
+# Model weights (too large for GitHub ~14MB)
+waste_classifier.pth
+
+# Dataset (too large — thousands of images)
+dataset/
+
+# User corrections (personal/local data)
+corrections.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
